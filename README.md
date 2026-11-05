@@ -6,7 +6,7 @@
 
 Building reliable, useful AI systems — from document intelligence to agentic applications.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Papps94-181717?style=flat&logo=github)](https://github.com/Papps94)
+[![GitHub](https://img.shields.io/badge/GitHub-Papps94-181717?style=flat&logo=github)](https://github.com/Papps94)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Papp%20Ibou%20Faye-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/papp-ibou-faye-0a5654251)
 
 </div>
 
